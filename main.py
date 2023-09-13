@@ -13,7 +13,7 @@ print(result)
 # find the index of the letter s
 
 ###slide 5
-# string[start:stop:step]
+# string[start:stop:step] dasiaidid
 #example
 # text = "Hello, World!"
 # print(text[7:12])  # prints "World"
